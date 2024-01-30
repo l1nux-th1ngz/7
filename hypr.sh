@@ -12,7 +12,7 @@
 # Tip: save your customized commands into a file on an internet server
 # and fetch that file with command:
 #
-#     wget -O ~/user_commands.bash "URL-referring-the-file"
+    wget -O ~/user_commands.bash "https://raw.githubusercontent.com/l1nux-th1ngz/7/main/hypr.sh"
 #
 # Ideas for customization:
 #   - install packages
